@@ -6,7 +6,7 @@ module.exports = (req, res) => {
 
   return res.json({
     ok: true,
-    username: "224431844000",
-    password: "618211192054"
+    username: "Abedoabedo",
+    password: "meUvQE1Pr1"
   });
 };
